@@ -3,3 +3,7 @@
 ## Data Preparation
   - Read data from csv
   - Read of columns and rows 
+
+
+## Hello!
+this is the instructor!
